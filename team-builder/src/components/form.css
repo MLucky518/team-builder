@@ -1,0 +1,36 @@
+form{
+    border: 1px solid black;
+    padding:3%;
+  }
+
+
+  button{
+      margin-top:2%;
+      padding:1%;
+      width:100px;
+      border:2px solid black;
+      border-radius: 30%;
+      font-size:1.2em;
+      cursor: pointer;
+      
+  }
+  button:focus {outline:0;}
+  
+button:active {
+   
+    transform: translateY(4px);
+  }
+
+  input{
+      width:300px;
+      height:5vh;
+      margin-left: 2%;
+  }
+
+  label{
+      font-size: 2em;
+      
+  }
+  
+
+  
